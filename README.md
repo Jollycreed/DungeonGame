@@ -34,7 +34,7 @@ We welcome contributions to improve DungeonGame! To contribute:
 ## Known Issues
 
 - Large file sizes in the repository due to Unity asset management. We recommend using [Git LFS](https://git-lfs.github.com/).
-- Scripts are currently in development, so, yeah, the game doens't run.
+- Scripts are currently in development, so, yeah, the game doesn't run.
 
 ## License
 
